@@ -1,0 +1,1 @@
+<p>这是include文件 {{ $message }}</p>
